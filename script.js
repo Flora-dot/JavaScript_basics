@@ -33,3 +33,7 @@ for(let i = Num1; i <= Num2; i++){
 console.log(RangeSum);
 }
 calcFunc(10, 15);
+
+
+
+
