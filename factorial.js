@@ -15,6 +15,6 @@ function numfact(num) {
   }
   
 
-  numfact(7);
+  numfact(6);
   
   
